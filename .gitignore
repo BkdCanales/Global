@@ -15,3 +15,4 @@ application/logs/*
 !application/logs/index.html
 !application/logs/.htaccess
 /vendor/
+ScriptDB/Tarea1 semana 1 v2 _1_.docx

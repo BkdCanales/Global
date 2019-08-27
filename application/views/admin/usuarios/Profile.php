@@ -469,7 +469,7 @@
                 </div>
         </div>
         <div class="tab-pane fade fade-left" id="settings" role="tabpanel">
-            <h4 class="font-w400">Settings Contenido</h4>
+            <h4 class="font-w400">Settings </h4>
             <p>Content slides in t</p>
         </div>
     </div>
