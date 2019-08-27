@@ -470,7 +470,7 @@
         </div>
         <div class="tab-pane fade fade-left" id="settings" role="tabpanel">
             <h4 class="font-w400">Settings Content</h4>
-            <p>Content slides in to the left..</p>
+            <p>Content slides in t</p>
         </div>
     </div>
 </div>
